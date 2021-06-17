@@ -1,6 +1,9 @@
 
 Problem Name – Largest Gold Ingot
+
 Problem - Ramesh is a goldsmith, who brought a large number of gold ingot each of different length(L) but equal breadth(B) and height(H). He wanted to wield the ingots of same length with each other.
+
+
 Problem Description - Ramesh is a goldsmith, who brought a large number of gold ingot each of different length(L) but equal breadth(B) and height(H). He wants to weld the ingots of same length with each other. He tasks his new employee, Akash, to weld the ingots of same length with each other. But Akash forgot that he had to weld the ingots of same length, instead he welded the ingots in a random manner.
 Later Ramesh found out what he had done. He then ordered Akash to cut the welded ingot such that a cuboid with the largest volume from the welded gold ingot is obtained.
 Find the volume of summation of gold ingots minus volume of the largest cuboid.
