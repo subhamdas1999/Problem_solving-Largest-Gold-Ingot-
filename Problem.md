@@ -13,6 +13,7 @@ Constraints
 0 < G < 10^5
 
 Input
+
 First Line contains one integer G, denoting number of gold ingots
 Second line contains two space separated integers B and H, where B denotes the breadth and H denotes the height of individual ingot
 Third line contains G space separated integers, denoting the length of the individual gold ingots that are welded together in adjacent manner
